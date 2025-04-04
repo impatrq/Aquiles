@@ -22,11 +22,9 @@
 </p>
 </div>
 
-
-
 ## 🌐 Accede a la Página Web
-🔗 [Visita Aquiles Web](https://misaacastillo.github.io/aquiles_web/)
 
+🔗 [Visita Aquiles Web](https://misaacastillo.github.io/aquiles_web/)
 
 ## ✨ Revolucionando la Movilidad Humana
 
@@ -53,6 +51,7 @@ AQUILES es un exoesqueleto de asistencia motora diseñado para mejorar la movili
 ## ⚡ Tecnología Utilizada
 
 - **Hardware**:
+
   - Raspberry Pi 4
   - Sensores de aceleración y encoders
   - Motores brushless con controladores ESC
@@ -64,14 +63,16 @@ AQUILES es un exoesqueleto de asistencia motora diseñado para mejorar la movili
   - Algoritmos de Machine Learning para optimización de asistencia
   - Integración con microcontroladores RP2040
   - Flutter para la aplicación móvil
-  - Firebase para la base de datos 
-  
+  - Firebase para la base de datos
+
 ## 💸 Costos Estimados
 
 El desarrollo de AQUILES tiene un costo estimado de **378 USD**, incluyendo componentes electrónicos, motores y materiales de fabricación.
 
 ## 📢 Contribución
+
 Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
+
 - Mejoras en el código
 - Optimización de hardware
 - Documentación y pruebas
@@ -96,47 +97,52 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 - Pruebas con usuarios reales para mejorar la experiencia de uso.
 
 ## Integrantes:
-### Juan Montilla
-* 📷 Instagram: [@montillajuanignacio](https://www.instagram.com/montillajuanignacio/)
-* 📧 Mail: montillajuanignacio@gmail.com
-* 🏆 LinkedIn: 
-* 🌐 Github: [@monti3](github.com/monti3)
 
+### Juan Montilla
+
+- 📷 Instagram: [@montillajuanignacio](https://www.instagram.com/montillajuanignacio/)
+- 📧 Mail: montillajuanignacio@gmail.com
+- 🏆 LinkedIn:
+- 🌐 Github: [@monti3](github.com/monti3)
 
 ### Santiago Alberto Zacarías
-* 📷 Instagram: [@santizaca_](https://www.instagram.com/santizaca_/)
-* 📧 Mail: sanfran120771@gmail.com
-* 🏆 LinkedIn: [Santiago Zacarias](https://www.linkedin.com/in/santiago-zacar%C3%ADas-3a3978319/)
-* 🌐 Github: [ZaCoso](https://github.com/ZaCoso)
+
+- 📷 Instagram: [@santizaca\_](https://www.instagram.com/santizaca_/)
+- 📧 Mail: sanfran120771@gmail.com
+- 🏆 LinkedIn: [Santiago Zacarias](https://www.linkedin.com/in/santiago-zacar%C3%ADas-3a3978319/)
+- 🌐 Github: [ZaCoso](https://github.com/ZaCoso)
 
 ### Juan Cruz Isola
-* 📷 Instagram: [@juanisola_](https://www.instagram.com/juanisola_/)
-* 📧 Mail: juancruz.isola2209@gmail.com
-* 🏆 LinkedIn: 
-* 🌐 Github: [juanisola_](https://github.com/juanisola)
-  
+
+- 📷 Instagram: [@juanisola\_](https://www.instagram.com/juanisola_/)
+- 📧 Mail: juancruz.isola2209@gmail.com
+- 🏆 LinkedIn:
+- 🌐 Github: [juanisola\_](https://github.com/juanisola)
+
 ### Rodrigo Alexis Lin
-* 📷 Instagram: [@alexisrodrigolin](https://www.instagram.com/alexisrodrigolin/)
-* 📧 Mail: alexisrodrigolin@gmail.com
-* 🏆 LinkedIn: 
-* 🌐 Github: [alexisrodrigolin](https://github.com/alexisrodrigolin)
+
+- 📷 Instagram: [@alexisrodrigolin](https://www.instagram.com/alexisrodrigolin/)
+- 📧 Mail: alexisrodrigolin@gmail.com
+- 🏆 LinkedIn:
+- 🌐 Github: [alexisrodrigolin](https://github.com/alexisrodrigolin)
 
 ### Mauricio Contardi Trillo
-* 📷 Instagram: [@mauritrillo_](https://www.instagram.com/mauritrillo_/)
-* 📧 Mail: trillocontardimauricio@gmail.com
-* 🏆 LinkedIn: 
-* 🌐 Github: [Mauriciotrillo](https://github.com/MauricioTrillo)
-  
+
+- 📷 Instagram: [@mauritrillo\_](https://www.instagram.com/mauritrillo_/)
+- 📧 Mail: trillocontardimauricio@gmail.com
+- 🏆 LinkedIn:
+- 🌐 Github: [Mauriciotrillo](https://github.com/MauricioTrillo)
+
 ### Misael Castillo
-* 📷 Instagram: [@misaacas](https://www.instagram.com/misaacas/)
-* 📧 Mail: misacastillo08@gmail.com
-* 🏆 LinkedIn: [Castillo Misael](https://www.linkedin.com/in/misael-castillo-0a52a1314/)
-* 🌐 Github: [misaacastillo](https://github.com/misaacastillo)
+
+- 📷 Instagram: [@misaacas](https://www.instagram.com/misaacas/)
+- 📧 Mail: misacastillo08@gmail.com
+- 🏆 LinkedIn: [Castillo Misael](https://www.linkedin.com/in/misael-castillo-0a52a1314/)
+- 🌐 Github: [misaacastillo](https://github.com/misaacastillo)
 
 ---
 
 AQUILES es más que un proyecto tecnológico: es una solución que redefine la movilidad humana. ¡Sé parte de la revolución! 💪🛠️
-
 
 ## 📜 Licencia
 
