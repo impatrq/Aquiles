@@ -1,5 +1,3 @@
-
-import 'package:aquiles/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,12 +12,6 @@ class AquilesApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Aquiles',
-
-      routes: {
-        '/': (context) => const LoginScreen(),
-      },
-
-
     );
   }
 }
