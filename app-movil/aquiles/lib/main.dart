@@ -1,4 +1,4 @@
-
+import 'package:aquiles/screens/home_screen.dart';
 import 'package:aquiles/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -14,12 +14,10 @@ class AquilesApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Aquiles',
-
       routes: {
         '/': (context) => const LoginScreen(),
+        '/home': (context) => const HomeScreen(),
       },
-
-
     );
   }
 }
