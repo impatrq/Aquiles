@@ -1,3 +1,4 @@
+import 'package:aquiles/screens/activity_tracking_screen.dart';
 import 'package:aquiles/screens/home_screen.dart';
 import 'package:aquiles/screens/login_screen.dart';
 import 'package:flutter/material.dart';
@@ -17,6 +18,7 @@ class AquilesApp extends StatelessWidget {
       routes: {
         '/': (context) => const LoginScreen(),
         '/home': (context) => const HomeScreen(),
+        '/activity_tracking': (context) => const ActivityTrackingScreen(),
       },
     );
   }
